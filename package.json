@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"MONGO_URI=mongodb://172.30.52.4:27017/sample-app node ."
+    "start":"node ."
   },
   "keywords": [],
   "author": "",
